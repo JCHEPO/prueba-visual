@@ -8,3 +8,5 @@ dentro de git >>
   - clear = limpiar pantasha
   - git log = historial de Commit changes
   - git pull = ver si está todo actualizado
+  - git add .
+  - $ git commit -m "para agregar commit al archivo recien subido "
