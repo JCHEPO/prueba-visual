@@ -7,4 +7,4 @@ dentro de git >>
   - git clone = para sincronizar (?)
   - clear = limpiar pantasha
   - git log = historial de Commit changes
-  - 
+  - git pull = ver si está todo actualizado
