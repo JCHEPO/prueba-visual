@@ -47,3 +47,7 @@ Opinión del instructor
 
 
 </p>
+
+<h3>Git merge y demases</h3>
+<br>git switch main
+<br>git merge desarrollo
