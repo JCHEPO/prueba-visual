@@ -60,4 +60,5 @@ Agregar: git add . para agregar todos los archivos o git add <nombre_archivo> pa
 Commit: git commit -m "mensaje" para guardar los cambios con un mensaje.
 Enviar y actualizar: git push para enviar los cambios al repositorio remoto y git pull para descargar las actualizaciones.
 Ramas: git checkout -b <nombre_rama> para crear una nueva rama, git merge para fusionar ramas, git switch para cambiar entre ramas y git restore --source <hash> para volver a un commit anterior.
+https://www.aluracursos.com/blog/iniciando-repositorio-con-git
 
