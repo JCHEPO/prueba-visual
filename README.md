@@ -51,3 +51,13 @@ Opinión del instructor
 <h3>Git merge y demases</h3>
 <br>git switch main
 <br>git merge desarrollo
+<h1>Resumen clase </h1>
+¡Hola! En esta clase, repasamos los comandos esenciales de Git y GitHub que aprendiste durante el curso.
+Configuración: git config --global user.name y user.email para registrar tu información y git config --list para ver la configuración.
+Repositorios: git clone para copiar un repositorio existente y git init para crear uno nuevo.
+Verificación: git status para ver el estado del proyecto, git log para el historial de commits, git diff para los cambios en archivos y git branch para las ramas.
+Agregar: git add . para agregar todos los archivos o git add <nombre_archivo> para uno específico.
+Commit: git commit -m "mensaje" para guardar los cambios con un mensaje.
+Enviar y actualizar: git push para enviar los cambios al repositorio remoto y git pull para descargar las actualizaciones.
+Ramas: git checkout -b <nombre_rama> para crear una nueva rama, git merge para fusionar ramas, git switch para cambiar entre ramas y git restore --source <hash> para volver a un commit anterior.
+
