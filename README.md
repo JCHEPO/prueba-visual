@@ -2,14 +2,14 @@
 
 <h2>Curso Git </h2>
 dentro de git >>
-  - cd = para posicionarse
-  <br >- ls = para ver carpetas
-  - git clone = para sincronizar (?)
-  - clear = limpiar pantasha
-  - git log = historial de Commit changes
-  - git pull = ver si está todo actualizado
-  - git add .
-  - $ git commit -m "para agregar commit al archivo recien subido "
+  <br >cd = para posicionarse
+  <br > ls = para ver carpetas
+  <br >git clone = para sincronizar (?)
+  <br >clear = limpiar pantasha
+  <br >git log = historial de Commit changes
+  <br >git pull = ver si está todo actualizado
+  <br >git add .
+  <br >$ git commit -m "para agregar commit al archivo recien subido "
 <h2> Resumen</h2>
 <p>Localizo archivo con cd. Luego de hacer cambios.
   <br>1. "git status" para ver si hay archivos modificados
